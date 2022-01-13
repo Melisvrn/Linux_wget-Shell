@@ -1,7 +1,7 @@
 # Zenity Üzerinde Wget Komutu
 GNU Wget, web'den dosya indirmek için bir komut satırı yardımcı programıdır. Wget ile HTTP, FTP gibi çeşitli  protokollerini kullanarak dosyaları indirebilirsiniz. Wget, birden fazla dosya indirmenize, indirmeleri devam ettirmenize, bant genişliğini sınırlamanıza,  arka planda indirmenize, bir web sitesini yansıtmanıza ve daha birçok seçeneğe olanak tanır. 
 
-# Projenin anlatım linki : 
+## Kodların Anlatım Videosu : 
 - https://www.youtube.com/watch?v=IjT6EEaalo0
 
 ## Wget Ve Zenity nasıl kurulur?
