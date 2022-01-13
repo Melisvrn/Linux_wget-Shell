@@ -34,7 +34,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: İşlem Seçenekleri:
 
-<img src="https://user-images.githubusercontent.com/55049795/149304334-309f0bc0-85ee-4aa8-ae22-48d9b37d1df7.jpeg" width="300">
+<img src="https://user-images.githubusercontent.com/55049795/149304334-309f0bc0-85ee-4aa8-ae22-48d9b37d1df7.jpeg" width="500">
 
 :point_right: Dosyanın Kaydediliyor Bilgisi:
 
@@ -42,7 +42,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Kaydedildi Bilgisi:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="300">
+<img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="500">
 
 :point_right: Dosyanın İndirilecek Hzının Belirlenmesi:
 
@@ -50,7 +50,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Dosyayı Farklı Adla Kaydetme:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305313-0a01aca8-2ed9-4fc5-bbc5-bdda61799a9f.jpeg" width="300">
+<img src="https://user-images.githubusercontent.com/55049795/149305313-0a01aca8-2ed9-4fc5-bbc5-bdda61799a9f.jpeg" width="500">
 
 :point_right: Dosyanın Kaydedileceği Konumu Belirtme:
 
@@ -58,7 +58,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Çıkış:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305595-f7e3ff56-9a8f-4221-9ee9-b71b005be178.jpeg" width="300">
+<img src="https://user-images.githubusercontent.com/55049795/149305595-f7e3ff56-9a8f-4221-9ee9-b71b005be178.jpeg" width="500">
 
 
 
