@@ -38,19 +38,12 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Dosyanın Kaydediliyor Bilgisi:
 
-<img src="https://user-images.githubusercontent.com/55049795/149304757-c1f88b4b-aa5f-42ca-8471-0594dab6ddf4.jpeg" width="300">
+<img src="https://user-images.githubusercontent.com/55049795/149304757-c1f88b4b-aa5f-42ca-8471-0594dab6ddf4.jpeg" width="400">  <img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="300">
 
-:point_right: Kaydedildi Bilgisi:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="400">
+:point_right: Dosyanın İndirilecek Hzının Belirlenmesi ve Yeniden Adlandırılmesı:
 
-:point_right: Dosyanın İndirilecek Hzının Belirlenmesi:
-
-<img src="https://user-images.githubusercontent.com/55049795/149305236-0e54ac65-9f3f-4f9e-8d59-7a88c1588eef.jpeg" width="300">
-
-:point_right: Dosyayı Farklı Adla Kaydetme:
-
-<img src="https://user-images.githubusercontent.com/55049795/149305313-0a01aca8-2ed9-4fc5-bbc5-bdda61799a9f.jpeg" width="500">
+<img src="https://user-images.githubusercontent.com/55049795/149305236-0e54ac65-9f3f-4f9e-8d59-7a88c1588eef.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/55049795/149305313-0a01aca8-2ed9-4fc5-bbc5-bdda61799a9f.jpeg" width="300">
 
 :point_right: Dosyanın Kaydedileceği Konumu Belirtme:
 
@@ -58,7 +51,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Çıkış:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305595-f7e3ff56-9a8f-4221-9ee9-b71b005be178.jpeg" width="500">
+<img src="https://user-images.githubusercontent.com/55049795/149305595-f7e3ff56-9a8f-4221-9ee9-b71b005be178.jpeg" width="300">
 
 
 
