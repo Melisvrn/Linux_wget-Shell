@@ -22,7 +22,7 @@ if [ $liste == "Kaydet" ]
 then
 	    cd ~/Downloads
 	    (
-	    wget -i https://github.com/Melisvrn/ABAP-REUSE_ALV_DISPLAY_GRID/blob/main/Reuse_ALV.abap
+	    wget -i  https://github.com/Melisvrn/ABAP-REUSE_ALV_DISPLAY_GRID/blob/main/Reuse_ALV.abap
            ) |
            zenity --progress --title="wget" --text="Kaydediliyor..." --percentage 0
            zenity --info --text="Kaydedildi" 
@@ -47,7 +47,7 @@ then
             kaydedilecek_dizin=$(zenity --entry --text="Dosyanın kaydedileceği konumu belirtiniz." --title="wget")
 	    cd ~/Downloads
 	    (
-	    wget -p $kaydedilecek_dizin https://wordpress.org/latest.zip
+	    wget -p  $kaydedilecek_dizin https://wordpress.org/latest.zip
 ) |
 zenity --progress --title="wget" --text="Dizine kaydediliyor" --percentage 0
 
@@ -60,6 +60,7 @@ then
 	    wget --spider https://wordpress.org/latest.zip
             ) |
              zenity --progress --title="wget" --text="KOntrol Ediliyor..." --percentage 0
+
  
 fi
 
@@ -67,7 +68,7 @@ if [ $liste == "Websiteİçeriği" ]
 then
 	    cd ~/Downloads
 	    (
-	    wget --mirror --convert-links --page-conditions --no-parent -P belgeleri/websiteleri/ https://www.vbap.com.tr/
+	    wget --mirror --convert-links --page-requisites --no-parent -P websiteiçeriği/ https://www.vbap.com.tr/
             ) |
             zenity --progress --title="wget" --text="Website içeriği alınıyor...." --percentage 0
             zenity --info --text="Tüm website içeriği alındı." 
