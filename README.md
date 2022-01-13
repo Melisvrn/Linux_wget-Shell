@@ -42,7 +42,7 @@ Parola korumalı bir FTP sunucusundan dosya indirmek için, kullanıcı adı ve 
 
 :point_right: Kaydedildi Bilgisi:
 
-<img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="500">
+<img src="https://user-images.githubusercontent.com/55049795/149305078-2eeba7c2-9110-4680-ad0c-2e12e0f0b408.jpeg" width="400">
 
 :point_right: Dosyanın İndirilecek Hzının Belirlenmesi:
 
