@@ -4,8 +4,9 @@ GNU Wget, web'den dosya indirmek için bir komut satırı yardımcı programıd�
 ## Wget nasıl kurulur?
 
 - sudo apt-get install wget 
+- sudo apt-get install zenity
 
-Komutu terminak üzerinden çalıştırılmalıdır.Kurulum bittiğinde kullanılmaya hazır olacaktır.
+Komutu terminak üzerinden çalıştırılmalıdırlar.Kurulum bittiğinde kullanılmaya hazır olacaktır.
 
 ## Projede Kullanılan Wget Parametreleri:
 - -i
